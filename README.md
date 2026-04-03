@@ -14,16 +14,21 @@ Git repo of the demo: https://github.com/darryldecode/laravelshoppingcart-demo
 ## INSTALLATION
 
 to be updated...
-for now add this to composer.json:
+
+for now add this to composer.json:\
+
 ```require{"zerdotre/laravel-cart": "dev-main"}```
 
 and: 
-```"repositories": [
+
+```
+"repositories": [
   {
     "type": "vcs",
     "url": "https://github.com/zerdotre/laravel-cart.git"
   }
-]```
+]
+```
 
 ## CONFIGURATION
 
