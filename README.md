@@ -15,9 +15,13 @@ Git repo of the demo: https://github.com/darryldecode/laravelshoppingcart-demo
 
 to be updated...
 
-for now add this to composer.json:\
+for now add this to composer.json:
 
-```require{"zerdotre/laravel-cart": "dev-main"}```
+```
+require{
+    "zerdotre/laravel-cart": "^13.0.0"
+    }
+```
 
 and: 
 
